@@ -10376,3 +10376,9 @@ opacity:0.7;
     background: rgb(255, 15, 101);
     
     }
+
+@media (max-width:520px){
+	iframe {
+    		width: 100%;
+	}
+}
